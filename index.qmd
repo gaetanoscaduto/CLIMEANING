@@ -91,7 +91,9 @@ output:
 ```
 
 ::: {.intro-line .text-background}
-**CLIMEANING cerca partecipanti per una conversazione di gruppo di un'ora e mezza. Fai sentire la tua voce, partecipa alla ricerca e ricevi un buono regalo da 40€!**
+**CLIMEANING cerca partecipanti per una conversazione di gruppo di un'ora e mezza.**
+
+**Fai sentire la tua voce, partecipa alla ricerca e ricevi un buono regalo da 40€!**
 :::
 
 ![](cover.jpg){alt="cover" fig-align="center"}
