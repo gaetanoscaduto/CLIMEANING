@@ -1,0 +1,175 @@
+---
+title: "CLIMEANING — Cosa pensano gli Italiani del cambiamento climatico?"
+
+output:
+  html_document:
+    theme: minty
+    toc: false
+    df_print: paged
+---
+
+```{=html}
+<style>
+  body {
+    background-image: url("/background.jpg");
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+
+  /* intro callout */
+  .text-background {
+    background-color: rgba(255, 255, 255, 0.6);
+    color: black;
+    padding: 5px 10px;
+    display: inline-block;
+  }
+
+  /* make the cards transparent and slightly wider */
+  .grid > .card {
+    background-color: rgba(255, 255, 255, 0.6); /* transparency */
+    box-shadow: 0 4px 12px rgba(0,0,0,0.15);    /* optional soft shadow */
+    border: none;
+    padding: 1rem;
+    border-radius: 12px;
+  }
+
+  /* widen the grid container itself */
+  .grid {
+    max-width: 1200px;     /* adjust as needed */
+    margin-left: auto;
+    margin-right: auto;
+    gap: 1.5rem;           /* spacing between cards */
+  }
+
+  /* responsive columns: 1 on phone, 2 on tablet, 3 on desktop */
+  @media (max-width: 640px) {
+    .grid { grid-template-columns: 1fr; }
+  }
+  @media (min-width: 641px) and (max-width: 1024px) {
+    .grid { grid-template-columns: repeat(2, 1fr); }
+  }
+  @media (min-width: 1025px) {
+    .grid { grid-template-columns: repeat(3, 1fr); }
+  }
+  
+  /* Mobile fixes */
+  @media (max-width: 640px) {
+    /* Make the intro box use the full width on phones */
+    .text-background {
+      display: block;       /* was inline-block */
+      width: 100%;
+      box-sizing: border-box;
+      padding: 10px 12px;   /* keep the nice padded look */
+    }
+
+    /* Let each column take the full width when stacked */
+    .columns > .column {
+      width: 100% !important;
+    }
+
+    /* Center and size the photo nicely on mobile */
+    .hero-photo {
+      display: block;
+      margin: 0.5rem auto 1rem;                 /* center */
+      width: clamp(220px, 70vw, 360px);         /* responsive width */
+      height: auto;
+    }
+  }
+
+</style>
+```
+
+![](cover.jpg){alt="cover" fig-align="center"}
+
+::::::::: text-background
+::: section
+<h2>Obiettivi del progetto (in breve)</h2>
+
+<p>CLIMEANING è un progetto di ricerca che punta a:<br> 1) <strong>Mappare i diversi significati</strong> che le persone attribuiscono al cambiamento climatico;<br> 2) <strong>Capire da dove nascono</strong> questi significati (esperienze, media, politica, contesto sociale);<br> 3) <strong>Vedere come influenzano</strong> le reazioni alle campagne informative e alle politiche climatiche.</p>
+:::
+
+::: section
+<h2>Dove si svolge e chi finanzia</h2>
+
+<p class="quote">
+
+Il progetto è ospitato presso la<strong> [Erasmus University di Rotterdam (EUR)](https://www.eur.nl/en)</strong>, una dei più grandi atenei pubblici dei Paesi Bassi, ed è finanziato dalla <strong>NWO</strong>, l'organo pubblico che finanzia la ricerca scientifica nei Paesi Bassi.
+
+<img src="erasmus.jpg" alt="Erasmus university"/> <img src="nwo.jpg" alt="Erasmus university"/>
+
+</p>
+
+</ul>
+:::
+
+:::: section
+<h2>Team di ricerca</h2>
+
+<ul>
+
+<li><strong>[Prof. Willem de Koster](https://www.willemdekoster.nl/)</strong> — Responsabile scientifico del progetto (PI).</li>
+
+<li><strong>[Dott. Gaetano Scaduto](https://gaetanoscaduto.quarto.pub/home/)</strong> — Responsabile <em>unità italiana</em>.</li>
+
+<li><strong>[Marit van der Heide](https://www.eur.nl/people/marit-van-der-heide)</strong> — Dottoranda, responsabile <em>unità olandese</em>.</li>
+
+</ul>
+
+::: {.gallery aria-label="Galleria immagini del progetto (placeholder)"}
+<!-- Sostituisci con i tuoi file -->
+
+<img src="dekoster.jpg" alt="Placeholder ritratto 1"/> <img src="gaetano.jpg" alt="Placeholder ritratto 3"/> <img src="marit.jpg" alt="Placeholder ritratto 2"/>
+:::
+
+<p class="small-note">
+
+</p>
+::::
+
+:::: {#dettagli .section}
+<h2>Partecipa ai nostri focus group</h2>
+
+<p class="lead">
+
+Cerchiamo persone <strong>italiane e maggiorenni</strong> interessate a discutere per circa <strong>90 minuti</strong> di idee, opinioni, punti di vista e <strong>significati attribuiti al cambiamento climatico</strong>.
+
+</p>
+
+<ul>
+
+<li><strong>Durata:</strong> \~1 ora e mezza.</li>
+
+<li><strong>Formato:</strong> piccoli gruppi (4–6 persone), conversazione informale guidata da un moderatore.</li>
+
+<li><strong>Temi:</strong> che cosa significa “cambiamento climatico” per te.</li>
+
+<li><strong>Quando/dove:</strong> Orario e luogo dei focus group verranno concordati coi partecipanti.</li>
+
+<li><strong>Ricompensa:</strong> Un buono regalo dal valore di 40€</li>
+
+</ul>
+
+::: quote
+Vuoi unirti? Scrivimi una mail!
+:::
+
+<p><a class="btn btn-primary btn-lg"
+     href="mailto:scaduto@essb.eur.nl?subject=Interesse%20Focus%20Group%20CLIMEANING&body=Ciao%20Gaetano%2C%0Ami%20chiamo%20[Nome]%20e%20vorrei%20partecipare%20ai%20focus%20group.%0A%C2%B7%20Citt%C3%A0%3A%20%0A%C2%B7%20Disponibilit%C3%A0%3A%20%0A%C2%B7%20Contatto%20telefono%20(opz.)%3A%20%0A"
+     aria-label="Invia email di interesse">scaduto\@essb.eur.nl</a></p>
+::::
+:::::::::
+
+:::: text-background
+::: section
+<h2>Domande frequenti (FAQ)</h2>
+
+<p><strong>Chi può partecipare?</strong> Persone maggiorenni residenti in Italia, con qualsiasi punto di vista sul tema.</p>
+
+<p><strong>È necessario prepararsi?</strong> No: basta portare la propria esperienza e voglia di condividere i propri punti di vista.</p>
+
+<p><strong>Come userete le informazioni?</strong> Solo per fini di ricerca accademica, in forma anonimizzata.</p>
+
+<p><strong>Cosa ci guadagno?</strong> Una carta regalo dal valore di 40€ e la possibilità di far sentire la tua voce!</p>
+:::
+::::
