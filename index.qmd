@@ -80,17 +80,19 @@ output:
 </style>
 ```
 
+CLIMEANING cerca partecipanti per una conversazione di gruppo di un'ora e mezza. Fai sentire la tua voce, partecipa alla ricerca e ricevi un buono regalo da 40€!
+
 ![](cover.jpg){alt="cover" fig-align="center"}
 
 ::::::::: text-background
 ::: section
-<h2>Obiettivi del progetto (in breve)</h2>
+<h2>Obiettivi del progetto</h2>
 
-<p>CLIMEANING è un progetto di ricerca che punta a:<br> 1) <strong>Mappare i diversi significati</strong> che le persone attribuiscono al cambiamento climatico;<br> 2) <strong>Capire da dove nascono</strong> questi significati (esperienze, media, politica, contesto sociale);<br> 3) <strong>Vedere come influenzano</strong> le reazioni alle campagne informative e alle politiche climatiche.</p>
+<p>CLIMEANING è un progetto di ricerca che punta a:<br> 1) <strong>Mappare i diversi significati</strong> che le persone attribuiscono al cambiamento climatico.<br> 2) <strong>Capire da dove nascono</strong> questi significati.<br> 3) <strong>Dare una voce</strong> agli italiani in merito al tema del cambiamento climatico.</p>
 :::
 
 ::: section
-<h2>Dove si svolge e chi finanzia</h2>
+<h2>Chi finanzia il progetto?</h2>
 
 <p class="quote">
 
@@ -104,7 +106,7 @@ Il progetto è ospitato presso la<strong> [Erasmus University di Rotterdam (EUR)
 :::
 
 :::: section
-<h2>Team di ricerca</h2>
+<h2>Il team di ricerca</h2>
 
 <ul>
 
@@ -128,7 +130,7 @@ Il progetto è ospitato presso la<strong> [Erasmus University di Rotterdam (EUR)
 ::::
 
 :::: {#dettagli .section}
-<h2>Partecipa ai nostri focus group</h2>
+<h2>Partecipa ai nostri focus group!</h2>
 
 <p class="lead">
 
