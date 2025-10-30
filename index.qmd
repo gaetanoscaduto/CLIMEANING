@@ -1,5 +1,5 @@
 ---
-title: "CLIMEANING — Cosa pensano gli Italiani del cambiamento climatico?"
+title: "CLIMEANING"
 
 output:
   html_document:
@@ -11,7 +11,7 @@ output:
 ```{=html}
 <style>
   body {
-    background-image: url("/CLIMEANING/background.jpg");
+    background-image: url("background.jpg");
     background-attachment: fixed;
     background-size: cover;
     background-repeat: no-repeat;
@@ -19,7 +19,7 @@ output:
 
   /* intro callout */
   .text-background {
-    background-color: rgba(255, 255, 255, 0.8);
+    background-color: rgba(255, 255, 255, 1);
     color: black;
     padding: 5px 10px;
     display: inline-block;
@@ -87,18 +87,33 @@ output:
   display: block;
 }
 
+ .pictures{
+    text-align: center;
+    display: block;
+}
+
+.center-text { text-align: center; }
+
+/* Center standalone images */
+.centered-img {
+  display: block;
+  margin: 0.5rem auto;
+  height: auto; /* keep aspect ratio if you set width */
+}
+
 </style>
 ```
 
 ::: {.intro-line .text-background}
-**CLIMEANING cerca partecipanti per una conversazione di gruppo di un'ora e mezza.**
+**Il progetto CLIMEANING cerca partecipanti per una conversazione di gruppo**
 
 **Fai sentire la tua voce, partecipa alla ricerca e ricevi un buono regalo da 40€!**
 :::
 
+::::::::: text-background
 ![](cover.jpg){alt="cover" fig-align="center"}
 
-::::::::: text-background
+
 ::: section
 <h2>Obiettivi del progetto</h2>
 
@@ -110,13 +125,11 @@ output:
 
 <p class="quote">
 
-Il progetto è ospitato presso la<strong> [Erasmus University di Rotterdam (EUR)](https://www.eur.nl/en)</strong>, una dei più grandi atenei pubblici dei Paesi Bassi, ed è finanziato dalla <strong>NWO</strong>, l'organo pubblico che finanzia la ricerca scientifica nei Paesi Bassi.
+Il progetto è ospitato presso la<strong> [Erasmus University di Rotterdam (EUR)](https://www.eur.nl/en)</strong>, uno dei più grandi atenei pubblici dei Paesi Bassi, ed è finanziato dalla <strong>NWO</strong>, l'ente pubblico che finanzia la ricerca scientifica nei Paesi Bassi. </p>
 
-<img src="erasmus.jpg" alt="Erasmus university"/> <img src="nwo.jpg" alt="Erasmus university"/>
 
-</p>
-
-</ul>
+::: {.centered-img .center-text}
+<img src="erasmus.jpg" alt="Erasmus university"/> <img src="nwo.jpg" alt="nwo"/>
 :::
 
 :::: section
@@ -132,10 +145,11 @@ Il progetto è ospitato presso la<strong> [Erasmus University di Rotterdam (EUR)
 
 </ul>
 
-::: {.gallery aria-label="Galleria immagini del progetto (placeholder)"}
-<!-- Sostituisci con i tuoi file -->
+::: {.centered-img}
+::: {.center-text}
 
 <img src="dekoster.jpg" alt="Placeholder ritratto 1"/> <img src="gaetano.jpg" alt="Placeholder ritratto 3"/> <img src="marit.jpg" alt="Placeholder ritratto 2"/>
+:::
 :::
 
 <p class="small-note">
@@ -167,12 +181,14 @@ Cerchiamo persone <strong>italiane e maggiorenni</strong> interessate a discuter
 </ul>
 
 ::: quote
-Vuoi unirti? Scrivimi una mail!
-:::
+::: {.intro-line}
+Vuoi partecipare? Mandami una mail!
 
 <p><a class="btn btn-primary btn-lg"
      href="mailto:scaduto@essb.eur.nl?subject=Interesse%20Focus%20Group%20CLIMEANING&body=Ciao%20Gaetano%2C%0Ami%20chiamo%20[Nome]%20e%20vorrei%20partecipare%20ai%20focus%20group.%0A%C2%B7%20Citt%C3%A0%3A%20%0A%C2%B7%20Disponibilit%C3%A0%3A%20%0A%C2%B7%20Contatto%20telefono%20(opz.)%3A%20%0A"
      aria-label="Invia email di interesse">scaduto\@essb.eur.nl</a></p>
+:::
+:::
 ::::
 :::::::::
 
