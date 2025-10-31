@@ -112,7 +112,7 @@ output:
 **Fai sentire la tua voce, partecipa una conversazione di gruppo e ricevi un buono regalo da 40€!**
 
 <p><a class="btn btn-primary btn-lg"
-     href="https://api.whatsapp.com/send?phone=+393208140513&text=Ciao%20Gaetano,%20mi%20interesserebbe%20prendere%20parte%20alla%20ricerca.%20Potresti%20darmi%20qualche%20informazione%20in%20pi%C3%B9?">Voglio saperne di più!</a></p>
+     href="https://api.whatsapp.com/send?phone=+393208140513&text=Ciao%20Gaetano,%20mi%20interesserebbe%20prendere%20parte%20alla%20ricerca.%20Potresti%20darmi%20qualche%20informazione%20in%20pi%C3%B9?">Voglio saperne di più</a></p>
 
 :::
 
