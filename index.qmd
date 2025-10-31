@@ -1,5 +1,5 @@
 ---
-title: "CLIMEANING"
+title: ""
 
 output:
   html_document:
@@ -105,59 +105,69 @@ output:
 ```
 
 ::: {.intro-line .text-background}
-**Il progetto CLIMEANING cerca partecipanti per una conversazione di gruppo**
+**Cosa pensano davvero gli italiani sul cambiamento climatico? La politica fa davvero quello che vogliono i cittadini?**
 
-**Fai sentire la tua voce, partecipa alla ricerca e ricevi un buono regalo da 40€!**
+**Il progetto CLIMEANING cerca partecipanti alla ricerca per rispondere a queste domande.**
+
+**Fai sentire la tua voce, partecipa una conversazione di gruppo e ricevi un buono regalo da 40€!**
 :::
 
 :::::::::::::: text-background
 ![](cover.jpg){alt="cover" fig-align="center"}
 
-::: section
-<h2>Obiettivi del progetto</h2>
+::::::::::::: section
+<h2>**Obiettivi del progetto**</h2>
 
-<p>CLIMEANING è un progetto di ricerca che punta a:<br> 1) <strong>Mappare i diversi significati</strong> che le persone attribuiscono al cambiamento climatico.<br> 2) <strong>Capire da dove nascono</strong> questi significati.<br> 3) <strong>Dare una voce</strong> agli italiani in merito al tema del cambiamento climatico.</p>
-:::
+<p>
 
-:::::::::: section
-<h2>Chi finanzia il progetto?</h2>
+CLIMEANING è un progetto di ricerca che punta a:<br> ➡ <strong>Mappare i diversi significati</strong> che le persone attribuiscono al cambiamento climatico.<br> ➡ <strong>Capire da dove nascono</strong> questi significati.<br> ➡ <strong>Dare voce</strong> agli italiani sul tema del cambiamento climatico.
+
+:::: section
+<h2>**Chi finanzia il progetto**?</h2>
 
 <p class="quote">
 
-Il progetto è ospitato presso la<strong> [Erasmus University di Rotterdam (EUR)](https://www.eur.nl/en)</strong>, uno dei più grandi atenei pubblici dei Paesi Bassi, ed è finanziato dalla <strong>NWO</strong>, l'ente pubblico che finanzia la ricerca scientifica nei Paesi Bassi.
+Il progetto è condotto da un team di ricerca presso la <strong> [Erasmus University di Rotterdam (EUR)](#0)</strong>, uno dei più grandi atenei pubblici dei Paesi Bassi, ed è finanziato dalla <strong>NWO</strong>, l'ente pubblico che finanzia la ricerca scientifica olandese.
 
 </p>
 
 ::: {.centered-img .center-text}
 <img src="erasmus.jpg" alt="Erasmus university"/> <img src="nwo.jpg" alt="nwo"/>
 :::
+::::
 
 ::::: section
-<h2>Il team di ricerca</h2>
+<h2>**Il team di ricerca**</h2>
+
+Siamo un gruppo di sociologi e scienziati politici della Erasmus School of Social and Behavioral Sciences [(ESSB)](https://www.eur.nl/en/essb). Il nostro obiettivo è quello di capire a fondo i punti di vista delle persone sul cambiamento climatico, volendo dar voce a tutti i punti di vista, con l'atteggiamento di chi vuole **comprendere a fondo senza mai giudicare**.
 
 <ul>
-
-<li><strong>[Prof. Willem de Koster](https://www.willemdekoster.nl/)</strong> — Responsabile scientifico del progetto (PI).</li>
-
-<li><strong>[Dott. Gaetano Scaduto](https://gaetanoscaduto.quarto.pub/home/)</strong> — Responsabile <em>unità italiana</em>.</li>
-
-<li><strong>[Marit van der Heide](https://www.eur.nl/people/marit-van-der-heide)</strong> — Dottoranda, responsabile <em>unità olandese</em>.</li>
-
-</ul>
-
 :::: centered-img
 ::: center-text
-<img src="dekoster.jpg" alt="Placeholder ritratto 1"/> <img src="gaetano.jpg" alt="Placeholder ritratto 3"/> <img src="marit.jpg" alt="Placeholder ritratto 2"/>
+
+::: {.column width="30%"}
+<li><strong>[Prof. Willem de Koster](https://www.willemdekoster.nl/)</strong> — Responsabile scientifico del progetto (PI).</li>
+
+<img src="dekoster.jpg" alt="Placeholder ritratto 1"/>
+:::
+
+::: {.column width="30%"}
+<li><strong>[Dott. Gaetano Scaduto](https://gaetanoscaduto.quarto.pub/home/)</strong> — Ricercatore postdoc, responsabile <em>unità italiana</em>.</li>
+
+<img src="gaetano.jpg" alt="Placeholder ritratto 3"/>
+:::
+
+::: {.column width="30%"}
+<li><strong>[Dott. Marit van der Heide](https://www.eur.nl/people/marit-van-der-heide)</strong> — Dottoranda, responsabile <em>unità olandese</em>.</li>
+
+<img src="marit.jpg" alt="Placeholder ritratto 2"/>
+
+:::
 :::
 ::::
 
-<p class="small-note">
-
-</p>
-:::::
-
 ::::: {#dettagli .section}
-<h2>Partecipa ai nostri focus group!</h2>
+<h2>**Partecipa ai nostri focus group!**</h2>
 
 <p class="lead">
 
@@ -167,35 +177,34 @@ Cerchiamo persone <strong>italiane e maggiorenni</strong> interessate a discuter
 
 <ul>
 
-<li><strong>Durata:</strong> \~1 ora e mezza.</li>
+<li><strong>Durata:</strong> circa 1 ora e mezza.</li>
 
 <li><strong>Formato:</strong> piccoli gruppi (4–6 persone), conversazione informale guidata da un moderatore.</li>
 
 <li><strong>Temi:</strong> che cosa significa “cambiamento climatico” per te.</li>
 
-<li><strong>Quando/dove:</strong> Orario e luogo dei focus group verranno concordati coi partecipanti.</li>
+<li><strong>Quando/dove:</strong> Orario e luogo dei gruppi di discussione verranno concordati coi partecipanti di volta in volta.</li>
 
-<li><strong>Ricompensa:</strong> Un buono regalo dal valore di 40€</li>
+<li><strong>Ricompensa:</strong> Un buono regalo dal valore di 40€!</li>
 
 </ul>
 
 :::: quote
 ::: intro-line
-Vuoi partecipare? Mandami una mail!
+Vuoi partecipare?
 
 <p><a class="btn btn-primary btn-lg"
      href="mailto:scaduto@essb.eur.nl?subject=Interesse%20Focus%20Group%20CLIMEANING&body=Ciao%20Gaetano%2C%0Ami%20chiamo%20[Nome]%20e%20vorrei%20partecipare%20ai%20focus%20group.%0A%C2%B7%20Citt%C3%A0%3A%20%0A%C2%B7%20Disponibilit%C3%A0%3A%20%0A%C2%B7%20Contatto%20telefono%20(opz.)%3A%20%0A"
-     aria-label="Invia email di interesse">scaduto\@essb.eur.nl</a></p>
+     aria-label="Invia email di interesse">Scrivici una mail!</a></p>
 
-Oppure scrivimi su Whatsapp [cliccando questo link](https://api.whatsapp.com/send?phone=+393208140513&text=Ciao%20Gaetano,%20mi%20piacere%20prendere%20parte%20alla%20ricerca.%20Potresti%20darmi%20qualche%20informazione%20in%20pi%C3%B9?) (da cellulare)!
+Oppure scrivici su Whatsapp [cliccando questo link](https://api.whatsapp.com/send?phone=+393208140513&text=Ciao%20Gaetano,%20mi%20piacere%20prendere%20parte%20alla%20ricerca.%20Potresti%20darmi%20qualche%20informazione%20in%20pi%C3%B9?) (da cellulare)!
 :::
 ::::
 :::::
-::::::::::
 
 :::: text-background
 ::: section
-<h2>Domande frequenti (FAQ)</h2>
+<h2>**Domande frequenti (FAQ)**</h2>
 
 <p><strong>Chi può partecipare?</strong> Persone maggiorenni residenti in Italia, con qualsiasi punto di vista sul tema.</p>
 
@@ -206,4 +215,5 @@ Oppure scrivimi su Whatsapp [cliccando questo link](https://api.whatsapp.com/sen
 <p><strong>Cosa ci guadagno?</strong> Una carta regalo dal valore di 40€ e la possibilità di far sentire la tua voce!</p>
 :::
 ::::
+:::::::::::::
 ::::::::::::::
