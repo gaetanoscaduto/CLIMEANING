@@ -110,6 +110,10 @@ output:
 **Il progetto CLIMEANING cerca partecipanti alla ricerca per rispondere a queste domande.**
 
 **Fai sentire la tua voce, partecipa una conversazione di gruppo e ricevi un buono regalo da 40€!**
+
+<p><a class="btn btn-primary btn-lg"
+     href="https://api.whatsapp.com/send?phone=+393208140513&text=Ciao%20Gaetano,%20mi%20interesserebbe%20prendere%20parte%20alla%20ricerca.%20Potresti%20darmi%20qualche%20informazione%20in%20pi%C3%B9?">Voglio saperne di più!</a></p>
+
 :::
 
 :::::::::::::: text-background
@@ -142,29 +146,25 @@ Il progetto è condotto da un team di ricerca presso la <strong> [Erasmus Univer
 Siamo un gruppo di sociologi e scienziati politici della Erasmus School of Social and Behavioral Sciences [(ESSB)](https://www.eur.nl/en/essb). Il nostro obiettivo è quello di capire a fondo i punti di vista delle persone sul cambiamento climatico, volendo dar voce a tutti i punti di vista, con l'atteggiamento di chi vuole **comprendere a fondo senza mai giudicare**.
 
 <ul>
-:::: centered-img
-::: center-text
 
-::: {.column width="30%"}
 <li><strong>[Prof. Willem de Koster](https://www.willemdekoster.nl/)</strong> — Responsabile scientifico del progetto (PI).</li>
 
-<img src="dekoster.jpg" alt="Placeholder ritratto 1"/>
-:::
-
-::: {.column width="30%"}
 <li><strong>[Dott. Gaetano Scaduto](https://gaetanoscaduto.quarto.pub/home/)</strong> — Ricercatore postdoc, responsabile <em>unità italiana</em>.</li>
 
-<img src="gaetano.jpg" alt="Placeholder ritratto 3"/>
-:::
+<li><strong>[Marit van der Heide](https://www.eur.nl/people/marit-van-der-heide)</strong> — Dottoranda, responsabile <em>unità olandese</em>.</li>
 
-::: {.column width="30%"}
-<li><strong>[Dott. Marit van der Heide](https://www.eur.nl/people/marit-van-der-heide)</strong> — Dottoranda, responsabile <em>unità olandese</em>.</li>
+</ul>
 
-<img src="marit.jpg" alt="Placeholder ritratto 2"/>
-
-:::
+:::: centered-img
+::: center-text
+<img src="dekoster.jpg" alt="Placeholder ritratto 1"/><img src="gaetano.jpg" alt="Placeholder ritratto 3"/> <img src="marit.jpg" alt="Placeholder ritratto 2"/>
 :::
 ::::
+
+<p class="small-note">
+
+</p>
+:::::
 
 ::::: {#dettagli .section}
 <h2>**Partecipa ai nostri focus group!**</h2>
@@ -197,7 +197,11 @@ Vuoi partecipare?
      href="mailto:scaduto@essb.eur.nl?subject=Interesse%20Focus%20Group%20CLIMEANING&body=Ciao%20Gaetano%2C%0Ami%20chiamo%20[Nome]%20e%20vorrei%20partecipare%20ai%20focus%20group.%0A%C2%B7%20Citt%C3%A0%3A%20%0A%C2%B7%20Disponibilit%C3%A0%3A%20%0A%C2%B7%20Contatto%20telefono%20(opz.)%3A%20%0A"
      aria-label="Invia email di interesse">Scrivici una mail!</a></p>
 
-Oppure scrivici su Whatsapp [cliccando questo link](https://api.whatsapp.com/send?phone=+393208140513&text=Ciao%20Gaetano,%20mi%20piacere%20prendere%20parte%20alla%20ricerca.%20Potresti%20darmi%20qualche%20informazione%20in%20pi%C3%B9?) (da cellulare)!
+Oppure...
+
+<p><a class="btn btn-primary btn-lg"
+     href="https://api.whatsapp.com/send?phone=+393208140513&text=Ciao%20Gaetano,%20mi%20piacerebbe%20prendere%20parte%20alla%20ricerca.%20Potresti%20darmi%20qualche%20informazione%20in%20pi%C3%B9?">Scrivici su Whatsapp!</a></p>
+
 :::
 ::::
 :::::
@@ -215,5 +219,3 @@ Oppure scrivici su Whatsapp [cliccando questo link](https://api.whatsapp.com/sen
 <p><strong>Cosa ci guadagno?</strong> Una carta regalo dal valore di 40€ e la possibilità di far sentire la tua voce!</p>
 :::
 ::::
-:::::::::::::
-::::::::::::::
