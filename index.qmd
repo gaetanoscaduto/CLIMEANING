@@ -105,15 +105,14 @@ output:
 ```
 
 ::: {.intro-line .text-background}
-**Cosa pensano davvero gli italiani sul cambiamento climatico? La politica fa davvero quello che vogliono i cittadini?**
+**Cosa pensano davvero gli italiani sul cambiamento climatico?**
 
-**Il progetto CLIMEANING cerca partecipanti alla ricerca per rispondere a queste domande.**
+**Il progetto CLIMEANING cerca partecipanti alla ricerca per rispondere a questa domanda.**
 
 **Fai sentire la tua voce, partecipa una conversazione di gruppo e ricevi un buono regalo da 40€!**
 
 <p><a class="btn btn-primary btn-lg"
-     href="https://api.whatsapp.com/send?phone=+393208140513&text=Ciao%20Gaetano,%20mi%20interesserebbe%20prendere%20parte%20alla%20ricerca.%20Potresti%20darmi%20qualche%20informazione%20in%20pi%C3%B9?">Voglio saperne di più</a></p>
-
+     href="https://api.whatsapp.com/send?phone=+393208140513&text=Ciao%20Gaetano,%20mi%20interesserebbe%20prendere%20parte%20alla%20ricerca.%20Potresti%20darmi%20qualche%20informazione%20in%20pi%C3%B9?">Voglio saperne di più!</a></p>
 :::
 
 :::::::::::::: text-background
@@ -124,7 +123,7 @@ output:
 
 <p>
 
-CLIMEANING è un progetto di ricerca che punta a:<br> ➡ <strong>Mappare i diversi significati</strong> che le persone attribuiscono al cambiamento climatico.<br> ➡ <strong>Capire da dove nascono</strong> questi significati.<br> ➡ <strong>Dare voce</strong> agli italiani sul tema del cambiamento climatico.
+CLIMEANING è un progetto di ricerca che punta a:<br> ➡ <strong>Mappare i diversi significati</strong> che le persone attribuiscono al cambiamento climatico.<br> ➡ <strong>Capire da dove nascono</strong> questi significati.<br> ➡ <strong>Dare voce agli italiani</strong> sul tema del cambiamento climatico.
 
 :::: section
 <h2>**Chi finanzia il progetto**?</h2>
@@ -201,7 +200,6 @@ Oppure...
 
 <p><a class="btn btn-primary btn-lg"
      href="https://api.whatsapp.com/send?phone=+393208140513&text=Ciao%20Gaetano,%20mi%20piacerebbe%20prendere%20parte%20alla%20ricerca.%20Potresti%20darmi%20qualche%20informazione%20in%20pi%C3%B9?">Scrivici su Whatsapp!</a></p>
-
 :::
 ::::
 :::::
@@ -212,7 +210,7 @@ Oppure...
 
 <p><strong>Chi può partecipare?</strong> Persone maggiorenni residenti in Italia, con qualsiasi punto di vista sul tema.</p>
 
-<p><strong>È necessario prepararsi?</strong> No: basta portare la propria esperienza e voglia di condividere i propri punti di vista.</p>
+<p><strong>È necessario prepararsi?</strong> Se parteciperai chiederemo di **inviarci un'immagine** che rappresenta ciò che ti viene in mente pensando al cambiamento climatico prima della conversazone. Per il resto, basta portare la propria esperienza e voglia di condividere i propri punti di vista!</p>
 
 <p><strong>Come userete le informazioni?</strong> Solo per fini di ricerca accademica, in forma anonimizzata.</p>
 
