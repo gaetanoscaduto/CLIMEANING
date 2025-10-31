@@ -111,8 +111,8 @@ output:
 
 **Fai sentire la tua voce, partecipa una conversazione di gruppo e ricevi un buono regalo da 40€!**
 
-<p><a class="btn btn-primary btn-lg"
-     href="https://api.whatsapp.com/send?phone=+393208140513&text=Ciao%20Gaetano,%20mi%20interesserebbe%20prendere%20parte%20alla%20ricerca.%20Potresti%20darmi%20qualche%20informazione%20in%20pi%C3%B9?">Voglio saperne di più!</a></p>
+<!-- <p><a class="btn btn-primary btn-lg" -->
+<!--      href="https://api.whatsapp.com/send?phone=+393208140513&text=Ciao%20Gaetano,%20mi%20interesserebbe%20prendere%20parte%20alla%20ricerca.%20Potresti%20darmi%20qualche%20informazione%20in%20pi%C3%B9?">Voglio saperne di più!</a></p> -->
 :::
 
 :::::::::::::: text-background
@@ -146,7 +146,7 @@ Siamo un gruppo di sociologi e scienziati politici della Erasmus School of Socia
 
 <ul>
 
-<li><strong>[Prof. Willem de Koster](https://www.willemdekoster.nl/)</strong> — Responsabile scientifico del progetto (PI).</li>
+<li><strong>[Prof. Willem de Koster](https://www.willemdekoster.nl/)</strong> — Responsabile scientifico del progetto.</li>
 
 <li><strong>[Dott. Gaetano Scaduto](https://gaetanoscaduto.quarto.pub/home/)</strong> — Ricercatore postdoc, responsabile <em>unità italiana</em>.</li>
 
